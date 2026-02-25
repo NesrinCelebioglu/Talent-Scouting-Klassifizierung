@@ -18,7 +18,8 @@ Vorhersage, ob Fußballspieler basierend auf Scout-Bewertungen **average** oder 
 
 ## Modelle & Ergebnisse
 - Algorithmen: Logistic Regression, KNN, SVM, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost  
-- Bestes Modell: **AdaBoost** (Accuracy 0.88, Precision 1.0, F1 0.59)  
+- Bestes Modell:
+   **AdaBoost** (Accuracy 0.88, Precision 1.0, F1 0.59)  
 
 ## Empfehlungen
 - Einsatz von AdaBoost  
